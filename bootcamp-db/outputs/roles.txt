@@ -1,0 +1,8 @@
+                             List of roles
+ Role name |                         Attributes                         
+-----------+------------------------------------------------------------
+ api       | 
+ app_read  | Cannot login
+ app_write | Cannot login
+ postgres  | Superuser, Create role, Create DB, Replication, Bypass RLS
+

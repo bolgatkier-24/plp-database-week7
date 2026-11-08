@@ -1,0 +1,8 @@
+    tree     
+-------------
+ Electronics
+   Computers
+   Phones
+     Laptops
+(4 rows)
+

@@ -1,0 +1,6 @@
+ id |   tbl    |   op   |                           old_row                           |                         new_row                          | changed_by |              at               
+----+----------+--------+-------------------------------------------------------------+----------------------------------------------------------+------------+-------------------------------
+  1 | students | UPDATE | {"id": 1, "name": "Ama K.", "email": "ama@example.com"}     | {"id": 1, "name": "Kofi M.", "email": "ama@example.com"} | postgres   | 2026-11-08 07:06:48.112501+00
+  2 | students | DELETE | {"id": 3, "name": "Abena S.", "email": "abena@example.com"} |                                                          | postgres   | 2026-11-08 07:06:48.112501+00
+(2 rows)
+

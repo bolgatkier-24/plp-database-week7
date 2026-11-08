@@ -1,0 +1,24 @@
+  grantee  | privilege_type |      table_name       
+-----------+----------------+-----------------------
+ app_read  | SELECT         | audit_log
+ app_read  | SELECT         | categories
+ app_read  | SELECT         | flyway_schema_history
+ app_read  | SELECT         | students
+ app_write | UPDATE         | audit_log
+ app_write | DELETE         | audit_log
+ app_write | INSERT         | audit_log
+ app_write | SELECT         | audit_log
+ app_write | DELETE         | categories
+ app_write | SELECT         | categories
+ app_write | INSERT         | categories
+ app_write | UPDATE         | categories
+ app_write | DELETE         | flyway_schema_history
+ app_write | UPDATE         | flyway_schema_history
+ app_write | SELECT         | flyway_schema_history
+ app_write | INSERT         | flyway_schema_history
+ app_write | DELETE         | students
+ app_write | UPDATE         | students
+ app_write | SELECT         | students
+ app_write | INSERT         | students
+(20 rows)
+

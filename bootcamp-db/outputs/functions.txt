@@ -1,0 +1,6 @@
+                       List of functions
+ Schema | Name  | Result data type | Argument data types | Type 
+--------+-------+------------------+---------------------+------
+ public | audit | trigger          |                     | func
+(1 row)
+
